@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-'select kat from hund'
+'SELECT kat FROM hund'
 Use the left arrow to go back!
